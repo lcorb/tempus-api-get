@@ -15,7 +15,7 @@ tt_end = "/maps/name"
 valid_zones = ['map', 'course', 'bonus']
 
 rank_increment = 50
-rank_max = 10
+rank_max = 10_000
 
 id_increment = 200
 id_max = 500_000
